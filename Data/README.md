@@ -1,11 +1,3 @@
-Learning Objectives: 
-
-The purpose of our chapter’s data work has been to understand the landscape of data related to food security. First, our purpose is to learn the relationship among raw data, an indicator, and a composite index.  Understanding these will help us recognize all the steps from data collection to data visualization, and help us experience the difficulties of managing the data. Second, our purpose is to connect concepts and theories with empirical evidence.  It is challenging to identify relationships among different indicators and to test theories related to food security. Third, our purpose is to effectively visualize datasets for comparison among countries and indicators. 
-
-Our data module efforts will be to illustrate how concepts in food security are operationalized and translated into data and indicators. As we mentioned explicitly, there are four dimensions to measure food security, however, the concept of food security still lacks conceptual clarity in development theory and practice. For example, the sustainability factor is lacking but important,  when it comes to long-term environmental impact that is caused by and results in food insecurity. 
-
-Finally, it is a myriad to define and measure food security, because it is linked to multiple indicators, across different age groups, genders, and household sizes. In fact, there is no universally agreed upon index or rankings that points to the right decision of food aid. This data module builds on this empirical work by asking what data is available that indicates whether food is secured, how indicators are being chosen and combined into a composite index. 
-
 
 Example One: Prevalence of Undernourishment
 
