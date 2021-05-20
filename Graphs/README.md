@@ -1,1 +1,12 @@
+Example One: Prevalence of Undernourishment: 
 
+The Number of People Undernourished is a statistical measure of population under a certain threshold of undernourishment. It only covers developing countries, even within which it has data deprivation issues. The first limitation is that it is not normalized by the total population and the percentage of undernourishment in each country, thus, the higher undernourished population may be due to a higher total population in one country. Therefore, India whose total population is high results in the darkest color in the map, i.e. highest number of undernourished population. Second, it only considers the quantity, but does not take into account the severity of undernourishment, such as whether they are just a little bit undernourished or extremely stunting. 
+
+In contrast, the PoU considers a variety of factors, thus, it more comprehensively evaluates not only the quantity, but also the severity of food insecurity. Firstly, it measures average dietary energy consumption. Since it is averaged, it reduces the total population factor. Second, it considers a threshold of minimum dietary energy requirement, which is similar to Number of People Undernourished with a threshold of Undernourishment. However, the threshold of minimum dietary energy requirement focuses on the energy in diet, which includes more dimensions than pure population. However, even though the PoU is comparatively more comprehensive, it still lacks factors such as quality of food, the stability and sustainability of food.
+
+
+Example Two: Global Hunger Index: 
+
+Behind the scene of data, let us go back to our question: what is the correlation between the Percentage of Overweight and Percentage of Underweight? As we mentioned earlier, people assume that being overweight may also be due to undernourishment. However, here we can see the two indicators are almost negatively correlated, which means that the countries that have a high percentage of overweight people more likely have less percentage of underweight people. In plain words, overweight people and underweight people usually live in different countries. That is being said, even if as the assumption says that overweight due to a lack of nutrition, the nutrition is different from the one causing underweight. 
+
+Finally, when it comes to index creation, since the two Percentage of Overweight and Percentage of Underweight are negatively correlated, when building up a composite index, we at most need either one of them, in order to avoid redundancy. 
