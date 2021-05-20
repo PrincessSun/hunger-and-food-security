@@ -1,7 +1,7 @@
 ## hunger-and-food-security
 
 
-#Abstract: 
+# Abstract: 
 
 The purpose of our chapter’s data work has been to understand the landscape of data related to food security. First, our purpose is to learn the relationship among raw data, an indicator, and a composite index.  Understanding these will help us recognize all the steps from data collection to data visualization, and help us experience the difficulties of managing the data. Second, our purpose is to connect concepts and theories with empirical evidence.  It is challenging to identify relationships among different indicators and to test theories related to food security. Third, our purpose is to effectively visualize datasets for comparison among countries and indicators. 
 
@@ -10,7 +10,7 @@ Our data module efforts will be to illustrate how concepts in food security are 
 Finally, it is a myriad to define and measure food security, because it is linked to multiple indicators, across different age groups, genders, and household sizes. In fact, there is no universally agreed upon index or rankings that points to the right decision of food aid. This data module builds on this empirical work by asking what data is available that indicates whether food is secured, how indicators are being chosen and combined into a composite index. 
 
 
-#Data Exercise: 
+# Data Exercise: 
 
 The purpose of our data exercise is three-folds. First, our purpose is to visually understand the benefit and limitation behind indicators and composite indices measuring food security. Second, our purpose is to understand how the indicators corresponding to a concept could be biased unconsciously or consciously.  There are four dimensions of global food security measures: availability, access, utilization, and stability. Through these exercises, we want students to understand the indicators that people or entities use to measure any one of the dimensions that could reflect their aspect of viewing these concepts. Third, this exercise helps students understand another dimension of food security “sustainability”, which is often disregarded in the conventional discussion of food security. 
 
@@ -33,7 +33,7 @@ b.	Understand the issues of data manipulation and data deprivation, and how that
 c.	Understand the mathematical model and equation building for the index. 
 
 
-#Exploring Food Security Indicators: 
+# Exploring Food Security Indicators: 
 
 FAO’s Prevalence of Undernourishment (PoU) (2021) estimates how much food is the proportion (percentage) of the population that lacks access to sufficient food consumption and thus struggles with reaching the minimum dietary energy level (kilo/calories). The PoU has played a leading role in measuring global nutritional security. 
 
