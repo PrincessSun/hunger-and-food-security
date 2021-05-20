@@ -10,35 +10,8 @@ Our data module efforts will be to illustrate how concepts in food security are 
 Finally, it is a myriad to define and measure food security, because it is linked to multiple indicators, across different age groups, genders, and household sizes. In fact, there is no universally agreed upon index or rankings that points to the right decision of food aid. This data module builds on this empirical work by asking what data is available that indicates whether food is secured, how indicators are being chosen and combined into a composite index. 
 
 
-Example One: Prevalence of Undernourishment
+Major Challenges: 
 
-In this section, we will explore four datasets:
+Empirical evidence, in many cases, is difficult to translate into theory, due to the difficulty of setting up control experiments to testify and distinguish the key factors among multiple factors that impact the result.  One solution may be to evaluate the accuracy of human decisions that are based on these indices. Taking food security evaluation as an example, we are uncertain about which index could provide us with the correct decision of food aid (correct here means with adequate amount and timing). To testify the indices, we can measure the accuracy of the food aid decisions that are based on these indices. We can measure the accuracy of governments and NGOs’ food aid programs, in order to know whether and which index can lead to the right decisions of food allocation. 
 
-●	Number of People Undernourished (defined by caloric intake below minimum energy,  requirements), 
-
-●	One composite index Prevalence of Undernourishment (PoU). 
-
-●	Dietary Energy Consumption, 
-
-●	Dietary Energy Supply. 
-
-
-The PoU index, measuring level of undernourishment, is based on a probability distribution of three parameters: the average dietary energy consumed by a hypothetical average individual; the variability of usual consumption; and a threshold of minimum dietary energy requirement to be in good health, also known as Minimum Dietary Energy Requirement (MDER). The dataset is of the years 2017 through 2019. 
-
-
-Example Two: Global Hunger Index 
-
-In this section, we will explore the Global Hunger Index (GHI) that helps estimate the number of children suffering from severe wasting, wasting, overweight, stunting, and underweight. The GHI is additional to the PoU index measuring food deficit in calories, it includes the measures of nutrition in children’s diet. The GHI measures hunger at regional, national, and international levels. 
-
-Here are the definitions of each: 
-
-●	Severe wasting: Percentage of children aged 0-59 months who are below minus three standard deviations from median weight-for-height of the WHO Child Growth Standards. 
-
-●	Wasting: Moderate and severe--Percentage of children aged 0-59 months who are below minus two standard deviations from median weight-for-height of the WHO Child Growth Standards.
-
-●	Overweight: Moderate and severe--Percentage of children aged 0-59 months who are above two standard deviations from median weight-for-height of the WHO Child Growth Standards. 
-
-●	Stunting: Moderate and severe--Percentage of children aged 0-59 months who are below minus two standard deviations from median height-for-age of the WHO Child Growth Standards. 
-
-●	Underweight: Moderate and severe--Percentage of children aged 0-59 months who are below minus two standard deviations from median weight-for-age of the WHO Child Growth Standards. 
-
+Another challenge is that how can governments and NGOs make aid decisions when there are multiple factors to consider? The problem again is due to the fact that each composite index includes various dimensions. To illustrate this, we can use a toy model–to compare the size of two people’s hands. There are two people A and B, and each hand has five fingers (1 2 3 4 5). When measuring the size of a hand, I can use a ruler to measure the length of the five fingers of A’s hand, and then measure the length of the five fingers of B’s hand. However, when we compare A’s and B’s hands, and try to rank their hands, should we compare finger 1 or finger 2 (or finger 3 or finger 4 or finger 5), or should we compare the average of the total five fingers? The answer is unclear. The same problem applies when measuring “food security,” say country A and country B have equal population size (say 500 people for each), we can compare each person’s food security level in between country A and country B. However, because “food security level” composes four dimensions, it becomes hard to measure with a simple conclusion. 
